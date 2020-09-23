@@ -1,0 +1,2 @@
+A offline music player with a database and ranking system remembering ratings and playcounter off specific songs.
+Open new .mp3 songs and create a playlist order the songs the way you want or play them in a random order. 

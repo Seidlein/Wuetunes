@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="src.jnlp">
+  <information>
+    <title>Wuetunes</title>
+    <vendor>Unknown</vendor>
+    <description>Wuetunes</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="src.jar" size="116146" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="1200" height="700" main-class="jpp.wuetunes.WueTunes"  name="Wuetunes" />
+  <update check="background"/>
+</jnlp>

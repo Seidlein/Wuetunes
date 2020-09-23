@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="w">
+    <output-path>$PROJECT_DIR$/out/artifacts/w</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="jpp.wuetunes.WueTunes" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="exe" />
+        <option name="title" value="Wuetunes" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="w.jar">
+        <element id="module-output" name="w" />
+      </element>
+    </root>
+  </artifact>
+</component>
